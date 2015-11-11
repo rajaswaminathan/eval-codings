@@ -1,6 +1,0 @@
-com\tdsecurities\evaluation\wordplay\util.class
-com\tdsecurities\evaluation\wordplay\ValidationUtil.class
-com\tdsecurities\evaluation\wordplay\request\PalindromeEvaluationRequest.class
-com\tdsecurities\evaluation\wordplay\evaluator\PalindromeEvaluator.class
-com\tdsecurities\evaluation\wordplay\response\PalindromeEvaluationResponse.class
-com\tdsecurities\evaluation\wordplay\evaluator\WordPlayEvaluator.class

@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="evaluation" />
         <module name="td-evaluation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="td-evaluation" target="1.8" />
+      <module name="evaluation" target="1.5" />
+      <module name="td-evaluation" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
