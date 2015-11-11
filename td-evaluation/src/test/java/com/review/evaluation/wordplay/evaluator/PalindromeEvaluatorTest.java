@@ -1,7 +1,7 @@
-package com.tdsecurities.evaluation.wordplay.evaluator;
+package com.review.evaluation.wordplay.evaluator;
 
-import com.tdsecurities.evaluation.wordplay.request.PalindromeEvaluationRequest;
-import com.tdsecurities.evaluation.wordplay.response.PalindromeEvaluationResponse;
+import com.review.evaluation.wordplay.request.PalindromeEvaluationRequest;
+import com.review.evaluation.wordplay.response.PalindromeEvaluationResponse;
 import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Before;

@@ -1,6 +1,6 @@
-package com.tdsecurities.evaluation.wordplay;
+package com.review.evaluation.wordplay;
 
-import com.tdsecurities.evaluation.wordplay.config.AppContextFactory;
+import com.review.evaluation.wordplay.config.AppContextFactory;
 
 /**
  * Created by Raja on 11/10/2015.

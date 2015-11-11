@@ -1,9 +1,9 @@
-package com.tdsecurities.evaluation.wordplay.config;
+package com.review.evaluation.wordplay.config;
 
-import com.tdsecurities.evaluation.wordplay.WordPlayService;
-import com.tdsecurities.evaluation.wordplay.WordPlayServiceImpl;
-import com.tdsecurities.evaluation.wordplay.evaluator.AnagramEvaluator;
-import com.tdsecurities.evaluation.wordplay.evaluator.PalindromeEvaluator;
+import com.review.evaluation.wordplay.WordPlayService;
+import com.review.evaluation.wordplay.WordPlayServiceImpl;
+import com.review.evaluation.wordplay.evaluator.AnagramEvaluator;
+import com.review.evaluation.wordplay.evaluator.PalindromeEvaluator;
 
 /**
  * Created by Raja on 11/10/2015.

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="com.tdsecurities.evaluation.wordplay.evaluator.PalindromeEvaluatorTest" time="0.012" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="com.tdsecurities.evaluation.wordplay.evaluator.AnagramEvaluatorTest" time="0.028" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="14.1.4"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -63,8 +63,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.PalindromeEvaluatorTest" name="testPalindromeForEvenLength" time="0.011"/>
-  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.PalindromeEvaluatorTest" name="testPalindromeForOddLength" time="0"/>
-  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.PalindromeEvaluatorTest" name="testInvalidPalindrome" time="0"/>
-  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.PalindromeEvaluatorTest" name="testPalindromeWithMixedCases" time="0.001"/>
+  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.AnagramEvaluatorTest" name="testAnagramWhenOneWordHasASpace" time="0.024"/>
+  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.AnagramEvaluatorTest" name="testAnagramForTrue" time="0.001"/>
+  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.AnagramEvaluatorTest" name="testAnagramForMixedCases" time="0"/>
+  <testcase classname="com.tdsecurities.evaluation.wordplay.evaluator.AnagramEvaluatorTest" name="testAnagramForFalse" time="0"/>
 </testsuite>

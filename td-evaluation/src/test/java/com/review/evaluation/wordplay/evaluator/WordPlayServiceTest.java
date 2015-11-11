@@ -1,13 +1,13 @@
-package com.tdsecurities.evaluation.wordplay.evaluator;
+package com.review.evaluation.wordplay.evaluator;
 
-import com.tdsecurities.evaluation.wordplay.WordPlayService;
+import com.review.evaluation.wordplay.WordPlayService;
 import static org.easymock.EasyMock.*;
 
-import com.tdsecurities.evaluation.wordplay.WordPlayServiceImpl;
-import com.tdsecurities.evaluation.wordplay.request.AnagramEvaluationRequest;
-import com.tdsecurities.evaluation.wordplay.request.PalindromeEvaluationRequest;
-import com.tdsecurities.evaluation.wordplay.response.AnagramEvaluationResponse;
-import com.tdsecurities.evaluation.wordplay.response.PalindromeEvaluationResponse;
+import com.review.evaluation.wordplay.WordPlayServiceImpl;
+import com.review.evaluation.wordplay.request.AnagramEvaluationRequest;
+import com.review.evaluation.wordplay.request.PalindromeEvaluationRequest;
+import com.review.evaluation.wordplay.response.AnagramEvaluationResponse;
+import com.review.evaluation.wordplay.response.PalindromeEvaluationResponse;
 import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Before;

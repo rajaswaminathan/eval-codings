@@ -1,6 +1,6 @@
-package com.tdsecurities.evaluation.wordplay.request;
+package com.review.evaluation.wordplay.request;
 
-import com.tdsecurities.evaluation.wordplay.utils.ValidationUtil;
+import com.review.evaluation.wordplay.utils.ValidationUtil;
 
 import java.util.Objects;
 

@@ -1,12 +1,12 @@
-package com.tdsecurities.evaluation.wordplay;
+package com.review.evaluation.wordplay;
 
-import com.tdsecurities.evaluation.wordplay.evaluator.AnagramEvaluator;
-import com.tdsecurities.evaluation.wordplay.evaluator.PalindromeEvaluator;
-import com.tdsecurities.evaluation.wordplay.evaluator.WordPlayEvaluator;
-import com.tdsecurities.evaluation.wordplay.request.AnagramEvaluationRequest;
-import com.tdsecurities.evaluation.wordplay.request.PalindromeEvaluationRequest;
-import com.tdsecurities.evaluation.wordplay.response.AnagramEvaluationResponse;
-import com.tdsecurities.evaluation.wordplay.response.PalindromeEvaluationResponse;
+import com.review.evaluation.wordplay.evaluator.AnagramEvaluator;
+import com.review.evaluation.wordplay.evaluator.PalindromeEvaluator;
+import com.review.evaluation.wordplay.evaluator.WordPlayEvaluator;
+import com.review.evaluation.wordplay.request.AnagramEvaluationRequest;
+import com.review.evaluation.wordplay.request.PalindromeEvaluationRequest;
+import com.review.evaluation.wordplay.response.AnagramEvaluationResponse;
+import com.review.evaluation.wordplay.response.PalindromeEvaluationResponse;
 
 /**
  * Created by Raja on 11/10/2015.

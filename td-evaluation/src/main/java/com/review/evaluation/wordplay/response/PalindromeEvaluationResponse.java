@@ -1,4 +1,4 @@
-package com.tdsecurities.evaluation.wordplay.response;
+package com.review.evaluation.wordplay.response;
 
 import java.util.Objects;
 

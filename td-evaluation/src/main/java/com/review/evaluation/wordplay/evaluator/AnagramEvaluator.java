@@ -1,7 +1,7 @@
-package com.tdsecurities.evaluation.wordplay.evaluator;
+package com.review.evaluation.wordplay.evaluator;
 
-import com.tdsecurities.evaluation.wordplay.request.AnagramEvaluationRequest;
-import com.tdsecurities.evaluation.wordplay.response.AnagramEvaluationResponse;
+import com.review.evaluation.wordplay.request.AnagramEvaluationRequest;
+import com.review.evaluation.wordplay.response.AnagramEvaluationResponse;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.tdsecurities.evaluation.wordplay.evaluator;
+package com.review.evaluation.wordplay.evaluator;
 
 /**
  * Created by Raja on 11/10/2015.
